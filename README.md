@@ -14,3 +14,10 @@ npm init @eslint/config # answer relevant questions (not all defaults)
 npm run dev # to start the dev server
 
 ```
+
+# Extra stuff
+
+Things I recommend setting up in your final project repository but maybe didn't talk about in class:
+
+- [husky and lint-staged](https://laurieontech.com/posts/husky/)
+- [renovate bot](https://github.com/renovatebot/tutorial) - this will help keep your dependencies up to date
